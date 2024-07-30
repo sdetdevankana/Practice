@@ -14,11 +14,16 @@ public class Test001 {
             br.readLine();
             System.out.println("Enter the marks of your student");
             double marks = Double.parseDouble(br.readLine());
+            System.out.println("Enter the avg of your student");
+            float avg = Float.parseFloat(br.readLine());
+
 
             System.out.println("name= " + name);
             System.out.println("age= " + age);
             System.out.println("sex= " + sex);
             System.out.println("marks= " + marks);
+            System.out.println("avg= " + avg);
+
 
             System.out.println("Hello world!");
         } catch (java.io.IOException e) {
