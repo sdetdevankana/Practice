@@ -22,7 +22,7 @@ public class Test001 {
             System.out.println("age= " + age);
             System.out.println("sex= " + sex);
             System.out.println("marks= " + marks);
-            System.out.println("avg= " + avg);
+//            System.out.println("avg= " + avg);
 
 
             System.out.println("Hello world!");
